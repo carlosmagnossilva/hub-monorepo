@@ -1,0 +1,4 @@
+
+> hub-core@1.0.0 build C:\Users\carlo\hub-monorepo\apps\hub-core
+> tsc --project tsconfig.json
+

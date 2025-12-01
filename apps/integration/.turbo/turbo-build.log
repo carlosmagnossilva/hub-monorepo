@@ -1,0 +1,4 @@
+
+> integration@1.0.0 build C:\Users\carlo\hub-monorepo\apps\integration
+> tsc --project tsconfig.json
+

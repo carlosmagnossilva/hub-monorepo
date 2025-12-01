@@ -1,0 +1,23 @@
+﻿{
+  "files": [],
+  "references": [],
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "strict": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "allowSyntheticDefaultImports": true,
+    "forceConsistentCasingInFileNames": true,
+    "baseUrl": ".",
+    "paths": {
+      "@core/*": ["apps/hub-core/src/*"],
+      "@integration/*": ["apps/integration/src/*"],
+      "@shared/*": ["libs/shared/*"],
+      "@clients/*": ["libs/clients/*"],
+      "@infra/*": ["libs/infra/*"]
+    }
+  }
+}

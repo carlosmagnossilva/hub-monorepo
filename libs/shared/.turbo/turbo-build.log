@@ -1,0 +1,4 @@
+
+> @hub/shared@1.0.0 build C:\Users\carlo\hub-monorepo\libs\shared
+> tsc --project tsconfig.json
+

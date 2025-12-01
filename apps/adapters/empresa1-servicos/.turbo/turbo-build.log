@@ -1,0 +1,4 @@
+
+> empresa1-servicos-adapter@1.0.0 build C:\Users\carlo\hub-monorepo\apps\adapters\empresa1-servicos
+> tsc --project tsconfig.json
+

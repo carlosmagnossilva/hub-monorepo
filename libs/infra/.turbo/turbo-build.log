@@ -1,0 +1,4 @@
+
+> @hub/infra@1.0.0 build C:\Users\carlo\hub-monorepo\libs\infra
+> tsc --project tsconfig.json
+
